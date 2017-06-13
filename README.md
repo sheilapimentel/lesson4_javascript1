@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sheila Pimentel
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating calculations with JavaScript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sheilapimentel.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Client-side programming: programs written in a separate scripting language such as JavaScript. These programs are embedded into the HTML of webpages with HTML tags.
+2. Scripting language: a scripting language is a simple, interpreted programming language that are embedded as plain text and interpreted by application. Scripting languages saves bandwidth as the source code is downloaded instead of compiled.
+3. JavaScript: JavaScript is a scripting language used in millions of webpages to improve design, validate forms, detect browsers, create cookies and more.
 
